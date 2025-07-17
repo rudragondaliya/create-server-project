@@ -1,0 +1,34 @@
+@font-face {
+    font-family: peral;
+    src: url("./xn7gYHE41ni1AdIRggexSg.woff2");
+}
+
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    font-family:peral;
+    overflow-x: hidden !important;
+}
+
+
+.img-1{
+    height: 400px !important;
+    width: 400px !important;
+    border: 2px solid black !important;
+    border-radius: 20px !important;
+}
+
+footer h1 {
+  line-height: 1.2;
+}
+
+footer .btn {
+  font-weight: 500;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+
